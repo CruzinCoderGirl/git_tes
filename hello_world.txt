@@ -1,0 +1,3 @@
+This is my learning about git github and version control using the command line interface.
+So far I feel I am understanding this tutorial a lot better then ones in the past. May be it is 
+true that I have learned a lot already.
